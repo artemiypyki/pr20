@@ -1,4 +1,4 @@
-package com.abdulaziz.pr20_mirzakamilov_pr_23103;
+package com.abdulaziz.pr20_kokoshnikov;
 
 import org.junit.Test;
 
